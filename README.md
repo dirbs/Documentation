@@ -1,3 +1,5 @@
+![Image of DIRBS Logo](https://avatars0.githubusercontent.com/u/42587891?s=100&v=4)
+
 # Documentation
 This repository contains the documentation of Device Identification, Registration and Blocking System (DIRBS).
 
